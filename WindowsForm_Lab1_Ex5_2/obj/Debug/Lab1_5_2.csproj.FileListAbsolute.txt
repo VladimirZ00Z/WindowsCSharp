@@ -1,0 +1,10 @@
+C:\Users\Владимир\source\repos\Lab1_5_2\bin\Debug\Lab1_5_2.exe
+C:\Users\Владимир\source\repos\Lab1_5_2\bin\Debug\Lab1_5_2.pdb
+C:\Users\Владимир\source\repos\Lab1_5_2\obj\Debug\Lab1_5_2.Properties.Resources.resources
+C:\Users\Владимир\source\repos\Lab1_5_2\obj\Debug\Lab1_5_2.csproj.GenerateResource.cache
+C:\Users\Владимир\source\repos\Lab1_5_2\obj\Debug\Lab1_5_2.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Lab1_5_2\obj\Debug\Lab1_5_2.exe
+C:\Users\Владимир\source\repos\Lab1_5_2\obj\Debug\Lab1_5_2.pdb
+C:\Users\Владимир\source\repos\Lab1_5_2\obj\Debug\Lab1_5_2.Form1.resources
+C:\Users\Владимир\source\repos\Lab1_5_2\obj\Debug\Lab1_5_2.Form2.resources
+C:\Users\Владимир\source\repos\Lab1_5_2\obj\Debug\Lab1_5_2.csproj.AssemblyReference.cache
