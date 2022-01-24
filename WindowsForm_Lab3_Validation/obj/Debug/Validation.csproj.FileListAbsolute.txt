@@ -1,0 +1,9 @@
+C:\Users\Владимир\source\repos\Lab3_1\Validation\bin\Debug\Validation.exe
+C:\Users\Владимир\source\repos\Lab3_1\Validation\bin\Debug\Validation.pdb
+C:\Users\Владимир\source\repos\Lab3_1\Validation\obj\Debug\Validation.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\Lab3_1\Validation\obj\Debug\Validation.Form1.resources
+C:\Users\Владимир\source\repos\Lab3_1\Validation\obj\Debug\Validation.Properties.Resources.resources
+C:\Users\Владимир\source\repos\Lab3_1\Validation\obj\Debug\Validation.csproj.GenerateResource.cache
+C:\Users\Владимир\source\repos\Lab3_1\Validation\obj\Debug\Validation.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Lab3_1\Validation\obj\Debug\Validation.exe
+C:\Users\Владимир\source\repos\Lab3_1\Validation\obj\Debug\Validation.pdb
