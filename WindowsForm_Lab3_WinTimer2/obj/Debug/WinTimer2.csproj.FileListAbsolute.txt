@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Lab3_1\WinTimer2\bin\Debug\WinTimer2.dll
+C:\Users\Владимир\source\repos\Lab3_1\WinTimer2\bin\Debug\WinTimer2.pdb
+C:\Users\Владимир\source\repos\Lab3_1\WinTimer2\obj\Debug\WinTimer2.UserControlTime2.resources
+C:\Users\Владимир\source\repos\Lab3_1\WinTimer2\obj\Debug\WinTimer2.csproj.GenerateResource.cache
+C:\Users\Владимир\source\repos\Lab3_1\WinTimer2\obj\Debug\WinTimer2.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Lab3_1\WinTimer2\obj\Debug\WinTimer2.dll
+C:\Users\Владимир\source\repos\Lab3_1\WinTimer2\obj\Debug\WinTimer2.pdb
