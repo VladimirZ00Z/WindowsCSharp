@@ -1,0 +1,9 @@
+C:\Users\Владимир\source\repos\DB\DB\DB\bin\Debug\DB.exe
+C:\Users\Владимир\source\repos\DB\DB\DB\bin\Debug\DB.pdb
+C:\Users\Владимир\source\repos\DB\DB\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\DB\DB\DB\obj\Debug\DB.Form1.resources
+C:\Users\Владимир\source\repos\DB\DB\DB\obj\Debug\DB.Properties.Resources.resources
+C:\Users\Владимир\source\repos\DB\DB\DB\obj\Debug\DB.csproj.GenerateResource.cache
+C:\Users\Владимир\source\repos\DB\DB\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\DB\DB\DB\obj\Debug\DB.exe
+C:\Users\Владимир\source\repos\DB\DB\DB\obj\Debug\DB.pdb
