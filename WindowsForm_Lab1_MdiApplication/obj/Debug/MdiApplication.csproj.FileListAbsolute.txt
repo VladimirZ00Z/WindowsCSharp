@@ -1,0 +1,10 @@
+C:\Users\Владимир\source\repos\MdiApplication\bin\Debug\MdiApplication.exe
+C:\Users\Владимир\source\repos\MdiApplication\bin\Debug\MdiApplication.pdb
+C:\Users\Владимир\source\repos\MdiApplication\obj\Debug\MdiApplication.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\MdiApplication\obj\Debug\MdiApplication.ChildForm.resources
+C:\Users\Владимир\source\repos\MdiApplication\obj\Debug\MdiApplication.ParentForm.resources
+C:\Users\Владимир\source\repos\MdiApplication\obj\Debug\MdiApplication.Properties.Resources.resources
+C:\Users\Владимир\source\repos\MdiApplication\obj\Debug\MdiApplication.csproj.GenerateResource.cache
+C:\Users\Владимир\source\repos\MdiApplication\obj\Debug\MdiApplication.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\MdiApplication\obj\Debug\MdiApplication.exe
+C:\Users\Владимир\source\repos\MdiApplication\obj\Debug\MdiApplication.pdb
