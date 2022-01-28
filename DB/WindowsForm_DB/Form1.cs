@@ -16,7 +16,7 @@ namespace DB
         {
             InitializeComponent();
         }
-
+//Для работы приложения требуется скачать базу данных AdventureWorks2017
         private void button1_Click(object sender, EventArgs e)
         {
             using (SqlConnection cn = new SqlConnection("Integrated Security = SSPI; Persist Security Info = False; Initial Catalog = AdventureWorks2017; Data Source = USER\\SQLEXPRESS"))
