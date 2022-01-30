@@ -1,0 +1,2 @@
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for Studio_C#\Windows_Course\Задания по курсу С#_Windows\Calculator\obj\Debug\Calculator.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for Studio_C#\Windows_Course\Задания по курсу С#_Windows\Calculator\obj\Debug\Calculator.pdb
